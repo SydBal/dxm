@@ -1,0 +1,19 @@
+{
+  "name": "dxm",
+  "description": "Dominic's eXample Modules",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SydBal/dxm.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SydBal/dxm/issues"
+  },
+  "homepage": "https://github.com/SydBal/dxm#readme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dominic Balassone"
+}
